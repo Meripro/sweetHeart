@@ -1,33 +1,33 @@
 // Array of Objects
 const quiz = [
     {
-        q:'you are 3rd place right now in a race. What place are you in when you pass the person in 2nd place?',
-        option:['1st','2nd','3rd','none'],
+        q:'where was Jesus born?',
+        option:['Addis-Abeba','Bethlehem','Jerusalem','none'],
         answer:1
     },
     {
-        q:'How many months have 28 days ?',
-        option:['2','1','all of them','Depends if there is a leap year or not'],
-        answer:2
-    },
-    {
-        q:'What is the name of our group',
-        option:['Enterprenuers','Brithtness', 'html', 'javaScript'],
+        q:'How many fish did Jesus need to feed the 5000 people?',
+        option:['2','1','5000','no answer'],
         answer:0
     },
     {
-        q:'The date of today is 18/5/22',
+        q:'Who assassinated John the Baptist?',
+        option:['king David','Menelik', 'Herod Antipas', 'no body'],
+        answer:2
+    },
+    {
+        q:'Abel killed cain. say true or false?',
         option:['true','false'],
         answer:1
     },
     {
-        q:'What is always coming but never arrives ?',
-        option:['car','lion','tomorrow','none'],
-        answer:2
+        q:'What was the name of the Wise King?',
+        option:['solomon','noah','Adam','Ermias'],
+        answer:0
     },
     {
-        q:'What is 22 + 6 ?',
-        option:['99','56','16','28'],
+        q:'Who approached Jesus in the middle of the night?',
+        option:['Alazar','Martha','Luke','Nicodemus'],
         answer:3
     }
 ]
