@@ -11,18 +11,18 @@ const quiz = [
         answer:0
     },
     {
-        q:'Adiams favoriate color?',
+        q:'Adiam s favoriate color?',
         option:['blue','black', 'silver', 'white'],
         answer:1
     },
     {
-        q:'Adiam misses so much her family?',
+        q:'Adiam loves her family so much!',
         option:['true','false'],
         answer:0
     },
     {
-        q:'What was the name of the Wise King?',
-        option:['solomon','noah','Adam','Ermias'],
+        q:'which number is most loved by Adu?',
+        option:['4','1','3','0'],
         answer:0
     },
     {
