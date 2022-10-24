@@ -11,14 +11,14 @@ const quiz = [
         answer:0
     },
     {
-        q:'Who assassinated John the Baptist?',
-        option:['king David','Menelik', 'Herod Antipas', 'no body'],
-        answer:2
+        q:'Adiams favoriate color?',
+        option:['blue','black', 'silver', 'white'],
+        answer:1
     },
     {
-        q:'Abel killed cain. say true or false?',
+        q:'Adiam misses so much her family?',
         option:['true','false'],
-        answer:1
+        answer:0
     },
     {
         q:'What was the name of the Wise King?',
@@ -27,7 +27,7 @@ const quiz = [
     },
     {
         q:'Who approached Jesus in the middle of the night?',
-        option:['Alazar','Martha','Luke','Nicodemus'],
+        option:['Alazar','Adiam','Meron','Nicodemus'],
         answer:3
     }
 ]
